@@ -118,7 +118,7 @@ SQL queries are written to answer specific business questions, using aggregation
 ## 👤 Author
 
 **Pradeepkumar Hejjegar**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@PradeepkumarYH](https://github.com/PradeepkumarYH)
 
 ---
 
